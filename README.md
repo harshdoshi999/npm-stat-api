@@ -46,6 +46,7 @@ npm.details('nutrient-database', function(err, response){
 	console.log(JSON.stringify(response));
 });
 
+```
 
 # Any issue or want more features? Contact me!
 
