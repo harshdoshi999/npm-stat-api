@@ -28,7 +28,7 @@ var npm = require('npm-stat-api');
 // 1. Package Name
 // 2. Start Date
 // 3. End Date
-npm.stat('nutrient-database','2016-07-20','2017-07-20', function(err, response){
+npm.stat('nutrient-database','2016-07-20','2017-08-20', function(err, response){
 	console.log(JSON.stringify(response));
 });
 
